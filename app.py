@@ -8,7 +8,7 @@ from pathlib import Path
 # PAGE CONFIG
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="ChurnIQ • Customer Retention AI",
+    page_title="ChurnPredict • Customer Retention AI",
     page_icon="📉",
     layout="wide",
     initial_sidebar_state="expanded"
