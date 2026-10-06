@@ -222,7 +222,7 @@ data = load_data()
 # SIDEBAR
 # ---------------------------------------------------------
 with st.sidebar:
-    st.markdown("## 📉 ChurnIQ")
+    st.markdown("## 📉 ChurnPredict")
     st.caption("Customer Retention Intelligence")
 
     st.divider()
