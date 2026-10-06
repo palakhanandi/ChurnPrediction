@@ -241,7 +241,7 @@ with st.sidebar:
     else:
         st.error("Model file missing")
 
-    st.caption("Expected file: churn_model.pkl")
+   
 
 # ---------------------------------------------------------
 # HEADER
