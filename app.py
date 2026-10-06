@@ -249,7 +249,7 @@ with st.sidebar:
 st.markdown("""
 <div class="hero">
     <div style="font-size:14px;color:#a5b4fc;font-weight:700;">AI-POWERED RETENTION PLATFORM</div>
-    <h1>ChurnIQ</h1>
+    <h1>ChurnPredict</h1>
     <p>Predict which customers are at risk of leaving — and turn predictions into retention actions.</p>
 </div>
 """, unsafe_allow_html=True)
